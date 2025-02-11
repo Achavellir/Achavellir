@@ -60,22 +60,6 @@ I am a **Full Stack Java Developer** with **5 years** of experience in designing
 
 ---
 
-## 🚀 Projects
-
-### [Project Name](https://github.com/Achavellir/Project-Name)
-- **Description:** Brief description of the project and its purpose.
-- **Technologies Used:** List of technologies used in the project.
-- **Features:** Key features of the project.
-- **Demo:** Link to a live demo or screenshots.
-
-### [Another Project](https://github.com/Achavellir/Another-Project)
-- **Description:** Brief description of the project and its purpose.
-- **Technologies Used:** List of technologies used in the project.
-- **Features:** Key features of the project.
-- **Demo:** Link to a live demo or screenshots.
-
----
-
 ## 📫 Get in Touch
 - **Email:** achavellir@gmail.com
 - **GitHub:** [github.com/RishiAchavelli](https://github.com/RishiAchavelli)
