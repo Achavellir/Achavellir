@@ -1,6 +1,3 @@
-Sure! Here is an updated version of your README with a smaller, more professional image:
-
-```markdown name=README.md
 # Hi there, I'm Rishi Achavelli 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Achavellir&style=flat-square&color=blue)
@@ -18,7 +15,9 @@ I am a **Full Stack Java Developer** with **5 years** of experience in designing
 - C, C++
 
 ### **Front-End Development:**
-- React, Angular, Vue.js, Node.js, HTML, CSS, JavaScript, TypeScript
+- React ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- Angular ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+- Vue.js, Node.js, HTML, CSS, JavaScript, TypeScript
 
 ### **Back-End Development:**
 - Java/J2EE, Spring Boot, Hibernate, RESTful APIs, GraphQL
@@ -61,6 +60,22 @@ I am a **Full Stack Java Developer** with **5 years** of experience in designing
 
 ---
 
+## 🚀 Projects
+
+### [Project Name](https://github.com/Achavellir/Project-Name)
+- **Description:** Brief description of the project and its purpose.
+- **Technologies Used:** List of technologies used in the project.
+- **Features:** Key features of the project.
+- **Demo:** Link to a live demo or screenshots.
+
+### [Another Project](https://github.com/Achavellir/Another-Project)
+- **Description:** Brief description of the project and its purpose.
+- **Technologies Used:** List of technologies used in the project.
+- **Features:** Key features of the project.
+- **Demo:** Link to a live demo or screenshots.
+
+---
+
 ## 📫 Get in Touch
 - **Email:** achavellir@gmail.com
 - **GitHub:** [github.com/RishiAchavelli](https://github.com/RishiAchavelli)
@@ -72,4 +87,3 @@ I am a **Full Stack Java Developer** with **5 years** of experience in designing
 Achavellir/Achavellir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-```
