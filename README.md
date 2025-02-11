@@ -1,12 +1,21 @@
+Sure! Here is an updated version of your README with a smaller, more professional image:
+
+```markdown name=README.md
 # Hi there, I'm Rishi Achavelli 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=Achavellir&style=flat-square&color=blue)
 
 ## 🚀 About Me
 I am a **Full Stack Java Developer** with **5 years** of experience in designing and developing scalable, high-performance applications. My expertise spans **Java, Spring Boot, React, Angular, AWS, and cloud computing platforms**. I thrive in agile environments and have a strong focus on **business intelligence, data modeling, and API development**.
 
+<img src="https://octodex.github.com/images/inspectocat.jpg" alt="Coding" width="200"/>
+
 ## 🔧 Technologies & Skills
 
 ### **Programming Languages:**
-- Java, Python, C, C++
+- Java ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- Python ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- C, C++
 
 ### **Front-End Development:**
 - React, Angular, Vue.js, Node.js, HTML, CSS, JavaScript, TypeScript
@@ -19,7 +28,7 @@ I am a **Full Stack Java Developer** with **5 years** of experience in designing
 - **AWS:** EC2, S3, Lambda, Glue, CloudWatch, Athena, Elastic Beanstalk
 - **Azure & GCP** experience
 - **CI/CD:** Jenkins, Travis CI, AWS CodePipeline
-- **Containerization:** Docker, Kubernetes
+- **Containerization:** Docker, Kubernetes ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### **Testing & Debugging:**
 - JUnit, Mockito, Selenium, JMeter, Postman
@@ -54,10 +63,13 @@ I am a **Full Stack Java Developer** with **5 years** of experience in designing
 
 ## 📫 Get in Touch
 - **Email:** achavellir@gmail.com
-- **GitHub:** [github.com/RishiAchavelli](#)
+- **GitHub:** [github.com/RishiAchavelli](https://github.com/RishiAchavelli)
+- **LinkedIn:** [linkedin.com/in/RishiAchavelli](https://www.linkedin.com/in/RishiAchavelli)
 
+<img src="https://octodex.github.com/images/stormtroopocat.jpg" alt="Contact" width="200"/>
 
 <!---
 Achavellir/Achavellir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+```
