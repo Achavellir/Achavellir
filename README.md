@@ -37,23 +37,6 @@ I am a **Full Stack Java Developer** with **5 years** of experience in designing
 
 ---
 
-## 💼 Work Experience
-
-### **Full Stack Java Developer** - Valuelabs _(Sep 2021 – Dec 2022)_
-- Developed **microservices-based applications** using Java 8, Spring Boot, Kafka, and NoSQL databases.
-- Designed and implemented **responsive UI** with HTML5, CSS3, Bootstrap, Angular.
-- Built and optimized **batch processing** apps using AWS and Spring Batch.
-- Improved **application performance by 30%** by implementing multi-threaded processing.
-- Automated deployment with **Jenkins CI/CD pipelines** and Docker containers.
-
-### **Java Developer** - Millenium Intech Pvt Ltd _(Dec 2017 – Aug 2021)_
-- Developed web applications using **Spring MVC and Hibernate ORM**.
-- Built and maintained **Dockerized microservices**.
-- Integrated **React.js, jQuery, and JavaScript** for interactive UI components.
-- Implemented **RESTful APIs and backend logic** using Java and Spring.
-
----
-
 ## 📚 Education
 - **Master’s in Computer Science** _(Aug 2024)_ - Webster University, St. Louis, MO
 - **Bachelor’s in Computer Applications** _(May 2018)_ - Bhavans Vivekananda College, Hyderabad, India
@@ -61,7 +44,7 @@ I am a **Full Stack Java Developer** with **5 years** of experience in designing
 ---
 
 ## 📫 Get in Touch
-- **Email:** achavellir@gmail.com
+- **Email:** achavelliri@gmail.com
 - **GitHub:** [github.com/RishiAchavelli](https://github.com/RishiAchavelli)
 
 <img src="https://octodex.github.com/images/stormtroopocat.jpg" alt="Contact" width="200"/>
