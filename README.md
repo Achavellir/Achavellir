@@ -45,7 +45,7 @@ I am a **Full Stack Java Developer** with **5 years** of experience in designing
 
 ## 📫 Get in Touch
 - **Email:** achavelliri@gmail.com
-- **GitHub:** [github.com/RishiAchavelli](https://github.com/RishiAchavelli)
+- **GitHub:** [github.com/RishiAchavelli](https://github.com/Achavellir)
 
 <img src="https://octodex.github.com/images/stormtroopocat.jpg" alt="Contact" width="200"/>
 
