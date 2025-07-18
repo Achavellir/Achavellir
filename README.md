@@ -5,18 +5,16 @@
 ## 🚀 About Me
 I am a **Full Stack Java Developer** with **5 years** of experience in designing and developing scalable, high-performance applications. My expertise spans **Java, Spring Boot, React, Angular, AWS, and cloud computing platforms**. I thrive in agile environments and have a strong focus on **business intelligence, data modeling, and API development**.
 
-<img src="https://octodex.github.com/images/inspectocat.jpg" alt="Coding" width="200"/>
-
 ## 🔧 Technologies & Skills
 
 ### **Programming Languages:**
-- Java ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- Python ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- Java
+- Python
 - C, C++
 
 ### **Front-End Development:**
-- React ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- Angular ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+- React
+- Angular
 - Vue.js, Node.js, HTML, CSS, JavaScript, TypeScript
 
 ### **Back-End Development:**
@@ -27,7 +25,7 @@ I am a **Full Stack Java Developer** with **5 years** of experience in designing
 - **AWS:** EC2, S3, Lambda, Glue, CloudWatch, Athena, Elastic Beanstalk
 - **Azure & GCP** experience
 - **CI/CD:** Jenkins, Travis CI, AWS CodePipeline
-- **Containerization:** Docker, Kubernetes ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+- **Containerization:** Docker, Kubernetes
 
 ### **Testing & Debugging:**
 - JUnit, Mockito, Selenium, JMeter, Postman
