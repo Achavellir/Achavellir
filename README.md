@@ -1,11 +1,11 @@
-# Hi there, I'm Rishi Achavelli 👋
+# Hi there, I'm Rishi Achavelli 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Achavellir&style=flat-square&color=blue)
 
-## 🚀 About Me
+##  About Me
 I am a **Full Stack Java Developer** with **5 years** of experience in designing and developing scalable, high-performance applications. My expertise spans **Java, Spring Boot, React, Angular, AWS, and cloud computing platforms**. I thrive in agile environments and have a strong focus on **business intelligence, data modeling, and API development**.
 
-## 🔧 Technologies & Skills
+##  Technologies & Skills
 
 ### **Programming Languages:**
 - Java
@@ -35,13 +35,13 @@ I am a **Full Stack Java Developer** with **5 years** of experience in designing
 
 ---
 
-## 📚 Education
+##  Education
 - **Master’s in Computer Science** _(Aug 2024)_ - Webster University, St. Louis, MO
 - **Bachelor’s in Computer Applications** _(May 2018)_ - Bhavans Vivekananda College, Hyderabad, India
 
 ---
 
-## 📫 Get in Touch
+##  Get in Touch
 - **Email:** achavellirishi@gmail.com
 - **GitHub:** [github.com/RishiAchavelli](https://github.com/Achavellir)
 
